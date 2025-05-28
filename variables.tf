@@ -11,5 +11,5 @@ variable "instance_type" {
 }
 
 variable "instance_name" {
-  default = "custom-ec2"  # Custom name tag for EC2
+  default = "armstrong-customs"  # Custom name tag for EC2
 }
